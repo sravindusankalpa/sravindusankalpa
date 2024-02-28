@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MERN , React , R**
+- 💬 Ask me about **Java , MERN , React , R**
 
 - 📫 How to reach me **sravindusankalpa@gmail.com**
 
